@@ -1,0 +1,22 @@
+---
+title: physical-quantities
+date: 2021-07-29 16:56:41
+tags: [ Physics ]
+---
+
+# 1-1 Physical Quantities, standards, and Units
+The laws of physics are expressed in terms of many differnt quantities:
+- mass, length, time, force, speed, density, resistence, temperature, luminous intensity, magnetic field strength, and many more. 
+# video sample 
+{% youtube dU5fZ4sZtTY %}
+
+Each of these terms has a precise meaning, they form part of a commong language that others physicists and other scientists use to communicate with, For example: 
+- When a physicist uses a term such as "kinetic energy", the others understand what is meant. 
+There must be agreement about the units used to express their values, it is impossible for scientist to communicate their results withoug agreements. 
+### Another example 
+{% blockquote %} 
+If a measurement of length is quoted as 4.3 meters, it means that the measured length is 4.3 times as long as the value accepted for a standard length defined to be "one meter".  
+{% endblockquote %}
+
+# Measurement standard
+Length and time were once regarded as fundamental quantities with their individual established standards; the measurement standard for speed (=length/time) could then be derived in terms of those standards. 
